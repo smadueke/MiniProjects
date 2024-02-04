@@ -1,0 +1,24 @@
+body {
+    background-color: blue;
+}
+
+p, label, h1, h2 {
+    color: white;
+}
+
+#result {
+    color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+}
